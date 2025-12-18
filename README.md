@@ -9,4 +9,3 @@ Repositório com mini projetos práticos usando Pandas para análise de dados.
 ## Tecnologias
 - Python
 - Pandas
-
