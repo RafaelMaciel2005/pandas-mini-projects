@@ -28,17 +28,3 @@ Este projeto tem como objetivo simular um **controle básico de estoque** utiliz
 
 * **Python 3**
 * **Pandas**
-
----
-
-## 📊 Estrutura dos Dados
-
-O DataFrame contém as seguintes colunas:
-
-| Coluna         | Descrição                         |
-| -------------- | --------------------------------- |
-| Produto        | Nome do produto                   |
-| Quantidade     | Quantidade disponível em estoque  |
-| Preco_Unitario | Preço unitário do produto         |
-| Valor_Total    | Quantidade × Preço Unitário       |
-| Status         | Situação do estoque (OK ou REPOR) |
