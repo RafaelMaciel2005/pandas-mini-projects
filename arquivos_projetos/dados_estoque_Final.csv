@@ -1,0 +1,6 @@
+Produto,Quantidade,Preco_Unitario,Valor_Total,Status
+Teclado,15,120.0,1800.0,OK
+Mouse,8,80.0,640.0,REPOR
+Monitor,5,900.0,4500.0,REPOR
+HeadSet,20,250.0,5000.0,OK
+Webcam,3,300.0,900.0,REPOR
