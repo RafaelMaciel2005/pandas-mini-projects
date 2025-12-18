@@ -1,27 +1,3 @@
-"""
-1 - Crie um DataFrame contendo:
-
-    produto
-
-    quantidade vendida
-
-    valor da venda
-
-    data da venda
-
-2- Salve os dados em um arquivo vendas.csv.
-
-3 - Leia o arquivo CSV.
-
-    Calcule:
-
-    O faturamento total
-
-    O produto mais vendido (em quantidade)
-
-    A receita total por mês
-"""
-
 import pandas as pd
 from IPython.display import display
 
