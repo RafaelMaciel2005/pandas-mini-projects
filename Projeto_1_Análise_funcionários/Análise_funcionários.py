@@ -19,7 +19,7 @@ func = pd.read_csv("arquivos_projetos/funcionarios.csv")
 
 #Calculando a média de cada departamento.
 media_dep = func.groupby("Departamento")["Salário"].mean()
-display(f"média salarial por departamento: {media_dep}:")
+display(f"\nmédia salarial por departamento: {media_dep}:")
 
 #O funcionário com o maior salário.
 func_maior_salario = func.loc[func["Salário"].idxmax()]
